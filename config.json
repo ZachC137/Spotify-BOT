@@ -1,8 +1,8 @@
 {  
-  "d_token": "BOT_TOKEN_GOES_HERE",
-  "prefix": "BOT_PREFIX_GOES_HERE",
-  "name": "BOT_NAME_GOES_HERE",
-  "oauth": "BOT_OAUTH_GOES_HERE",
+  "d_token": "NzE4MDYzMDQ5NDY1OTIxNTc2.XtjaXg.4YuWcyD8Ipc9jNXpQ2YotSPfk4w",
+  "prefix": "!",
+  "name": "Spotify_BOT",
+  "oauth": "https://discord.com/api/oauth2/authorize?client_id=718063049465921576&permissions=0&scope=bot",
   "passes": 1,
-  "yt_token": "YOUTUBE_SEARCH_TOKEN_GOES_HERE"
+  "yt_token": "AIzaSyCFQhf36vojdwr8IotOyqsEYz9AjZYxGOk"
 }
